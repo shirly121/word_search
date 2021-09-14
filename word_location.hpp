@@ -1,4 +1,3 @@
-// word_location.hpp
 struct WordLocation {
     WordLocation(): doc_id(0), pos(0) {}
     
